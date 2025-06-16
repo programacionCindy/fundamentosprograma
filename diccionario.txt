@@ -1,0 +1,6 @@
+dic={"nombre":"cindy",
+     "fonos":[934564567, 
+              923451234, 
+              956786789],
+     "activo": True}
+print(dic)
